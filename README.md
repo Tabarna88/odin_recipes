@@ -1,2 +1,3 @@
-# odin_recipes
-Odin recipes website work
+# Recipes website project for TOP
+
+### I'm building this website to check my HTML knowledge
